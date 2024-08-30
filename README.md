@@ -1,5 +1,5 @@
 # Experimental-Web-Crawler
-Simple Web Crawler i made in python, similar to dirb and Gobuster. I am new at this, so it's not the best. Thank you.
+Very Simple Web Crawler i made in python, similar to dirb and Gobuster. I am new at this, so it's not the best. Thank you.
 
 How do i use corndog16's experimental web Crawler to find the public directories of a website?
 Use ' -u ' to specify the website you want to run
